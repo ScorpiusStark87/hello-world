@@ -1,3 +1,9 @@
 # hello-world
-What ya looking at uh?
-This shit is just too much man, not really.
+<html>
+  <body bgcolor='red'>
+    <i>
+    What ya looking at uh? <br>
+    There's literally nothing here, shoo.
+    </i>
+  </body>
+ </html>
